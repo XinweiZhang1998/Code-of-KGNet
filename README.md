@@ -4,6 +4,9 @@ The code of IEEE IoTJ 2022 "Deep Learning-based Physical-Layer Secret Key Genera
 # Dataset
 Download data from [DeepMIMO](https://www.deepmimo.net/scenarios/i1-scenario/). We only consider one antenna in this scenario.
 
+# Environment
+Tensorflow 2.1 + python3.6
+
 # Key Generation
 * Step1: **python NN_predict.py** to perform channel mapping.
 * Step2: **python Quantify.py** to perform quantification.
