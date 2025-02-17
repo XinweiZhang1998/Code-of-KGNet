@@ -1,5 +1,5 @@
 # Code-of-KGNet
-The code of IEEE IoTJ 2022 "Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems"
+The code of IEEE IoTJ 2022 ["Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems"](https://ieeexplore.ieee.org/document/9526766)
 
 # Dataset
 Download data from [DeepMIMO](https://www.deepmimo.net/scenarios/i1-scenario/). We only consider one antenna in this scenario.
